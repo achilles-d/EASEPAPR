@@ -198,7 +198,7 @@ The overall assembly, main enclosure, main enclosure backplate, filter cartridge
 cartridge lid are original designs. Items were modeled using Autodesk Fusion 360.
 
 The filter media model is of original design, mimicking a 4” x 6” HEPA filter that is commonly
-available off-the-shelf.
+available off-the-shelf. 
 
 A battery housing was placed on the side of the fan housing and a hole was created on the
 adjacent side of the fan housing to allow power and ground wires to run from the battery to the
