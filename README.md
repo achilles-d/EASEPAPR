@@ -289,7 +289,7 @@ The costs specified were obtained during time of device design and might change.
 6. Wiring: Recommended at least UL1007, AWG 26 spec Red (+) and Black (-) wire.
     (< $0.20)
 
-Total cost (excluding 3D printing): **$83.**
+Total cost (excluding 3D printing): **$83.00**
 
 
 ## References
