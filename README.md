@@ -14,8 +14,8 @@ Last Updated: May 28, 2020
 * Franklin Boampong
 * Samarth Lamba
 
-![Overview](/figures/paproverview.png =250x)
-<img src="paproverview.png" alt="drawing" width="200"/>
+![Overview](/figures/paproverview.png)
+
 **Document License:**
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
